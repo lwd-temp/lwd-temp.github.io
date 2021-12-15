@@ -4,5 +4,4 @@
 ![Metrics](https://gh.lwd-temp.top/lwd-temp/github-metrics.svg)
 
 ### 赞助
-[![爱发电](https://cdn.jsdelivr.net/gh/lwd-temp/lwd-temp/afd_support.svg)](https://afdian.net/@lwd-temp)
-[二维码](https://cdn.jsdelivr.net/gh/lwd-temp/lwd-temp/afd_qr.jpg)
+[![爱发电](https://cdn.jsdelivr.net/gh/lwd-temp/lwd-temp/afd_support.svg)](https://donate.lwd-temp.top/)
